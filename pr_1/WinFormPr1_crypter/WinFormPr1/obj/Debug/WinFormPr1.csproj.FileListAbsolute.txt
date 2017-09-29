@@ -1,0 +1,10 @@
+C:\Users\RealityShift14\source\repos\WinFormPr1\WinFormPr1\bin\Debug\WinFormPr1.exe.config
+C:\Users\RealityShift14\source\repos\WinFormPr1\WinFormPr1\bin\Debug\WinFormPr1.exe
+C:\Users\RealityShift14\source\repos\WinFormPr1\WinFormPr1\bin\Debug\WinFormPr1.pdb
+C:\Users\RealityShift14\source\repos\WinFormPr1\WinFormPr1\obj\Debug\WinFormPr1.csprojResolveAssemblyReference.cache
+C:\Users\RealityShift14\source\repos\WinFormPr1\WinFormPr1\obj\Debug\WinFormPr1.Form1.resources
+C:\Users\RealityShift14\source\repos\WinFormPr1\WinFormPr1\obj\Debug\WinFormPr1.Properties.Resources.resources
+C:\Users\RealityShift14\source\repos\WinFormPr1\WinFormPr1\obj\Debug\WinFormPr1.csproj.GenerateResource.Cache
+C:\Users\RealityShift14\source\repos\WinFormPr1\WinFormPr1\obj\Debug\WinFormPr1.csproj.CoreCompileInputs.cache
+C:\Users\RealityShift14\source\repos\WinFormPr1\WinFormPr1\obj\Debug\WinFormPr1.exe
+C:\Users\RealityShift14\source\repos\WinFormPr1\WinFormPr1\obj\Debug\WinFormPr1.pdb
