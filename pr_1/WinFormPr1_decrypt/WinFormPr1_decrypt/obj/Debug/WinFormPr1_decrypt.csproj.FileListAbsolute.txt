@@ -1,0 +1,10 @@
+C:\Users\RealityShift14\source\repos\WinFormPr1_decrypt\WinFormPr1_decrypt\bin\Debug\WinFormPr1_decrypt.exe.config
+C:\Users\RealityShift14\source\repos\WinFormPr1_decrypt\WinFormPr1_decrypt\bin\Debug\WinFormPr1_decrypt.exe
+C:\Users\RealityShift14\source\repos\WinFormPr1_decrypt\WinFormPr1_decrypt\bin\Debug\WinFormPr1_decrypt.pdb
+C:\Users\RealityShift14\source\repos\WinFormPr1_decrypt\WinFormPr1_decrypt\obj\Debug\WinFormPr1_decrypt.csprojResolveAssemblyReference.cache
+C:\Users\RealityShift14\source\repos\WinFormPr1_decrypt\WinFormPr1_decrypt\obj\Debug\WinFormPr1_decrypt.Form1.resources
+C:\Users\RealityShift14\source\repos\WinFormPr1_decrypt\WinFormPr1_decrypt\obj\Debug\WinFormPr1_decrypt.Properties.Resources.resources
+C:\Users\RealityShift14\source\repos\WinFormPr1_decrypt\WinFormPr1_decrypt\obj\Debug\WinFormPr1_decrypt.csproj.GenerateResource.Cache
+C:\Users\RealityShift14\source\repos\WinFormPr1_decrypt\WinFormPr1_decrypt\obj\Debug\WinFormPr1_decrypt.csproj.CoreCompileInputs.cache
+C:\Users\RealityShift14\source\repos\WinFormPr1_decrypt\WinFormPr1_decrypt\obj\Debug\WinFormPr1_decrypt.exe
+C:\Users\RealityShift14\source\repos\WinFormPr1_decrypt\WinFormPr1_decrypt\obj\Debug\WinFormPr1_decrypt.pdb
