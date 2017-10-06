@@ -70,8 +70,7 @@ namespace WinFormPr1_decrypt
                 richTextBox1.Text = "1.Входная частотная таблица:\n";
                 for (int i = 0; i <= 32; i++)
                 {
-                    richTextBox1.Text += Converter.return_acsii(i,true) + ". " + freq_tab[i];
-                    if (i != 32) richTextBox1.Text += "\n";
+                    richTextBox1.Text += Converter.return_acsii(i,true) + ". " + freq_tab[i] + "\n";
                 }
                 button2.Enabled = true;
             }
@@ -79,6 +78,7 @@ namespace WinFormPr1_decrypt
 
         private void button2_Click(object sender, EventArgs e)
         {
+            textBox1.Enabled = true;
             Stream input_stream;
             openFileDialog2.InitialDirectory = "c:\\";
             openFileDialog2.RestoreDirectory = true;
@@ -108,9 +108,9 @@ namespace WinFormPr1_decrypt
                             for (int k=0; k<=32; k++)
                             {
                                 difference[i][k] = module(freq_tab[k] - input_tab[i]);
-                            Debug.Write(Converter.return_acsii(i, true) + ", " + Converter.return_acsii(k, true) + " diff = " + difference[i][k]);
+                           // Debug.Write(Converter.return_acsii(i, true) + ", " + Converter.return_acsii(k, true) + " diff = " + difference[i][k]);
                             }
-                            Debug.Write('\n');
+                            //Debug.Write('\n');
                         }
 
                         bool[] already_used_i = new bool[33];
@@ -153,17 +153,20 @@ namespace WinFormPr1_decrypt
                 if (i != 32) richTextBox1.Text += "\n";
             }
 
-            richTextBox1.Text += "\n3.Таблица соответствия:\n";
             for (int i = 0; i <= 32; i++)
             {
-                richTextBox1.Text += Converter.return_acsii(i, true) + " => " + Converter.return_acsii(conf_tab[i], true);
-                if (i != 32) richTextBox1.Text += "\n";
+                textBox1.Text += Converter.return_acsii(conf_tab[i], true);
             }
             button3.Enabled = true;
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
+            for (int i = 0; i <= 32; i++)
+            {
+                conf_tab[i] = Converter.return_number(textBox1.Text[i]);
+            }
+
             for (int i = 0; i < input_to_decr.Length; i++)
             {
                 if (Converter.return_number(input_to_decr[i]) != 33)
@@ -206,6 +209,11 @@ namespace WinFormPr1_decrypt
             checkBox1.Enabled = !checkBox1.Enabled;
             if (checkBox1.Enabled) button1.Text = "Выбрать текст для таблицы";
             else button1.Text = "Выбрать текст и сохранить таблицу";
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
