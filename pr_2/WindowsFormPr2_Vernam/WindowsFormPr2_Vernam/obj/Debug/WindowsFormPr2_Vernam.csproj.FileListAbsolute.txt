@@ -1,0 +1,10 @@
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Vernam\WindowsFormPr2_Vernam\bin\Debug\WindowsFormPr2_Vernam.exe.config
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Vernam\WindowsFormPr2_Vernam\bin\Debug\WindowsFormPr2_Vernam.exe
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Vernam\WindowsFormPr2_Vernam\bin\Debug\WindowsFormPr2_Vernam.pdb
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Vernam\WindowsFormPr2_Vernam\obj\Debug\WindowsFormPr2_Vernam.csprojResolveAssemblyReference.cache
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Vernam\WindowsFormPr2_Vernam\obj\Debug\WindowsFormPr2_Vernam.Form1.resources
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Vernam\WindowsFormPr2_Vernam\obj\Debug\WindowsFormPr2_Vernam.Properties.Resources.resources
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Vernam\WindowsFormPr2_Vernam\obj\Debug\WindowsFormPr2_Vernam.csproj.GenerateResource.Cache
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Vernam\WindowsFormPr2_Vernam\obj\Debug\WindowsFormPr2_Vernam.csproj.CoreCompileInputs.cache
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Vernam\WindowsFormPr2_Vernam\obj\Debug\WindowsFormPr2_Vernam.exe
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Vernam\WindowsFormPr2_Vernam\obj\Debug\WindowsFormPr2_Vernam.pdb
