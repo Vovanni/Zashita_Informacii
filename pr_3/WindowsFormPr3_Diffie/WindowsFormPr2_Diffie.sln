@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormPr2_Diffie", "WindowsFormPr2_Diffie\WindowsFormPr2_Diffie.csproj", "{01C0034C-2A0A-46F9-A3B8-F253E3F6FC82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C0034C-2A0A-46F9-A3B8-F253E3F6FC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C0034C-2A0A-46F9-A3B8-F253E3F6FC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C0034C-2A0A-46F9-A3B8-F253E3F6FC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C0034C-2A0A-46F9-A3B8-F253E3F6FC82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8278810-32E6-4A4E-B1BC-43CA65F3C8D0}
+	EndGlobalSection
+EndGlobal

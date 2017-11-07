@@ -1,0 +1,10 @@
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Diffie\WindowsFormPr2_Diffie\bin\Debug\WindowsFormPr2_Diffie.exe.config
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Diffie\WindowsFormPr2_Diffie\bin\Debug\WindowsFormPr2_Diffie.exe
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Diffie\WindowsFormPr2_Diffie\bin\Debug\WindowsFormPr2_Diffie.pdb
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Diffie\WindowsFormPr2_Diffie\obj\Debug\WindowsFormPr2_Diffie.csprojResolveAssemblyReference.cache
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Diffie\WindowsFormPr2_Diffie\obj\Debug\WindowsFormPr2_Diffie.Form1.resources
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Diffie\WindowsFormPr2_Diffie\obj\Debug\WindowsFormPr2_Diffie.Properties.Resources.resources
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Diffie\WindowsFormPr2_Diffie\obj\Debug\WindowsFormPr2_Diffie.csproj.GenerateResource.Cache
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Diffie\WindowsFormPr2_Diffie\obj\Debug\WindowsFormPr2_Diffie.csproj.CoreCompileInputs.cache
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Diffie\WindowsFormPr2_Diffie\obj\Debug\WindowsFormPr2_Diffie.exe
+C:\Users\RealityShift14\source\repos\WindowsFormPr2_Diffie\WindowsFormPr2_Diffie\obj\Debug\WindowsFormPr2_Diffie.pdb
