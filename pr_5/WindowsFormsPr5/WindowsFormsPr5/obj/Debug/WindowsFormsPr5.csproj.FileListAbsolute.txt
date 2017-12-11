@@ -1,0 +1,10 @@
+C:\Users\RealityShift14\source\repos\WindowsFormsPr5\WindowsFormsPr5\bin\Debug\WindowsFormsPr5.exe.config
+C:\Users\RealityShift14\source\repos\WindowsFormsPr5\WindowsFormsPr5\bin\Debug\WindowsFormsPr5.exe
+C:\Users\RealityShift14\source\repos\WindowsFormsPr5\WindowsFormsPr5\bin\Debug\WindowsFormsPr5.pdb
+C:\Users\RealityShift14\source\repos\WindowsFormsPr5\WindowsFormsPr5\obj\Debug\WindowsFormsPr5.csprojResolveAssemblyReference.cache
+C:\Users\RealityShift14\source\repos\WindowsFormsPr5\WindowsFormsPr5\obj\Debug\WindowsFormsPr5.Form1.resources
+C:\Users\RealityShift14\source\repos\WindowsFormsPr5\WindowsFormsPr5\obj\Debug\WindowsFormsPr5.Properties.Resources.resources
+C:\Users\RealityShift14\source\repos\WindowsFormsPr5\WindowsFormsPr5\obj\Debug\WindowsFormsPr5.csproj.GenerateResource.Cache
+C:\Users\RealityShift14\source\repos\WindowsFormsPr5\WindowsFormsPr5\obj\Debug\WindowsFormsPr5.csproj.CoreCompileInputs.cache
+C:\Users\RealityShift14\source\repos\WindowsFormsPr5\WindowsFormsPr5\obj\Debug\WindowsFormsPr5.exe
+C:\Users\RealityShift14\source\repos\WindowsFormsPr5\WindowsFormsPr5\obj\Debug\WindowsFormsPr5.pdb
