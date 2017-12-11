@@ -1,0 +1,10 @@
+C:\Users\RealityShift14\source\repos\WindowsFormsPr6\WindowsFormsPr6\bin\Debug\WindowsFormsPr6.exe.config
+C:\Users\RealityShift14\source\repos\WindowsFormsPr6\WindowsFormsPr6\bin\Debug\WindowsFormsPr6.exe
+C:\Users\RealityShift14\source\repos\WindowsFormsPr6\WindowsFormsPr6\bin\Debug\WindowsFormsPr6.pdb
+C:\Users\RealityShift14\source\repos\WindowsFormsPr6\WindowsFormsPr6\obj\Debug\WindowsFormsPr6.csprojResolveAssemblyReference.cache
+C:\Users\RealityShift14\source\repos\WindowsFormsPr6\WindowsFormsPr6\obj\Debug\WindowsFormsPr6.Form1.resources
+C:\Users\RealityShift14\source\repos\WindowsFormsPr6\WindowsFormsPr6\obj\Debug\WindowsFormsPr6.Properties.Resources.resources
+C:\Users\RealityShift14\source\repos\WindowsFormsPr6\WindowsFormsPr6\obj\Debug\WindowsFormsPr6.csproj.GenerateResource.Cache
+C:\Users\RealityShift14\source\repos\WindowsFormsPr6\WindowsFormsPr6\obj\Debug\WindowsFormsPr6.csproj.CoreCompileInputs.cache
+C:\Users\RealityShift14\source\repos\WindowsFormsPr6\WindowsFormsPr6\obj\Debug\WindowsFormsPr6.exe
+C:\Users\RealityShift14\source\repos\WindowsFormsPr6\WindowsFormsPr6\obj\Debug\WindowsFormsPr6.pdb
